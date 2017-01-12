@@ -9,3 +9,6 @@ function count () {
   console.log(7);
   console.log("Benci-cenci");
 }
+
+
+console.log("alala");
