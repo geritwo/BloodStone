@@ -1,3 +1,5 @@
-function(){
-   console.log(27);
+function cica(tomi){
+   console.log(tomi);
 }
+
+cica("alma");
