@@ -12,3 +12,5 @@ function count () {
 
 
 console.log("alala");
+console.log("alala");
+console.log("alala");
