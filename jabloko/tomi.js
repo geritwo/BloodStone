@@ -1,11 +1,11 @@
 
-function greet () {
+function greet (name) {
 
   console.log(name);
 
 }
 
-function count () {
-  console.log(7);
-  console.log("Benci-cenci");
+function count (number, string) {
+  console.log(number);
+  console.log(string);
 }
