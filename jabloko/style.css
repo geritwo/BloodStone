@@ -1,0 +1,29 @@
+body {
+  background: gainsboro;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+main {
+  width: 340px;
+  padding: 10px 20px;
+  margin: 0 40px 20px;
+  background: papayawhip;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px 0 black;
+}
+
+footer {
+  width: 270px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  align-self: center;
+}
+
+#footer-logo {
+  width: 40px;
+  height: auto;
+}
